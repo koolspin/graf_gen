@@ -8,7 +8,7 @@ def startup():
     """
     print("Hello world!")
     svgenv = SvgEnvironment('test.svg')
-    svgenv.text_tag1('KoolSpin 2020!')
+    svgenv.text_tag1('Nile 2020!')
     svgenv.save()
 
 
